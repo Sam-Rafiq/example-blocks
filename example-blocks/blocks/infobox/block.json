@@ -1,0 +1,29 @@
+{
+   "name": "infobox",
+   "title": "Infobox",
+   "description": "Aport description about this block",
+   "style": "file:style.css",
+   "script": "",
+   "category": "formatting",
+   "icon": "games",
+   "apiVersion": 2,
+   "keywords": ["content box", "infobox", "card"],
+   "acf": {
+      "mode": "preview",
+      "renderTemplate": "render.php"
+   },
+   "styles": [],
+   "supports": {
+      "align": true,
+      "anchor": true,
+      "alignContent": false,
+      "color": {
+         "text": true,
+         "background": true,
+         "link": false
+      },
+      "alignText": false,
+      "fullHeight": false
+   },
+   "attributes": {}
+}

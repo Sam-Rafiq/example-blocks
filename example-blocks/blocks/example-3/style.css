@@ -1,0 +1,18 @@
+.example3 {
+   background-color: #ccffaa;
+}
+
+.example3.is-style-opt1 {
+   background-color: #ff00ff;
+}
+
+.example3.is-style-opt1 .div1 {
+   float: left;
+}
+.example3.is-style-opt2 {
+   background-color: #ff6600;
+}
+
+.example3.is-style-opt2 .div1 {
+   float: right;
+}

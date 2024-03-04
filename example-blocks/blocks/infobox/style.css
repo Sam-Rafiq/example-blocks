@@ -1,0 +1,10 @@
+.sr-infobox {
+   padding: 30px;
+}
+
+.sr-infobox .sr-button {
+   background-color: #fff;
+   padding: 17px 24px;
+   border-radius: 8px;
+   text-decoration: none;
+}

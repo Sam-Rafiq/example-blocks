@@ -1,0 +1,29 @@
+{
+   "name": "example2",
+   "title": "Example 2",
+   "description": "Aport description about this block",
+   "style": "file:style.css",
+   "script": "",
+   "category": "formatting",
+   "icon": "games",
+   "apiVersion": 2,
+   "keywords": ["call to action", "cta", "keyword3"],
+   "acf": {
+      "mode": "preview",
+      "renderTemplate": "render.php"
+   },
+   "styles": [],
+   "supports": {
+      "align": true,
+      "anchor": true,
+      "alignContent": false,
+      "color": {
+         "text": false,
+         "background": false,
+         "link": false
+      },
+      "alignText": false,
+      "fullHeight": false
+   },
+   "attributes": {}
+}

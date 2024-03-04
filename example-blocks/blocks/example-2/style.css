@@ -1,0 +1,9 @@
+.example2 {
+   background-color: #ff0000;
+   padding: 20px;
+}
+
+.example2.extra-class {
+   background-color: blue;
+   margin: 20px;
+}
